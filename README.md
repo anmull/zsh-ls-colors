@@ -23,5 +23,5 @@ antigen bundle anmull/zsh-ls-colors
 
 ```
 git clone https://github.com/anmull/zsh-ls-colors
-source "zsh-ls-colors/ls_colors.sh"
+source "zsh-ls-colors/ls_colors.plugin.sh"
 ```
